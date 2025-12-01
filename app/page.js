@@ -125,7 +125,7 @@ const LandingPage = () => {
           // </Link>
            <SignInButton forceRedirectUrl="/dashboard">
               <Button size="lg"
-              className="bg-white text-blue-600 hover:bg-blue-50 animate-bounce" variant="outline">Login</Button>
+              className="bg-white text-blue-600 hover:bg-blue-50 animate-bounce" variant="outline">Start Your Free Trial</Button>
             </SignInButton>     
         </div>
       </section>
