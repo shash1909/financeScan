@@ -2,6 +2,7 @@ import React from "react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import Image from "next/image";
+import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/nextjs";
 import {
   featuresData,
   howItWorksData,
@@ -114,14 +115,18 @@ const LandingPage = () => {
             Join thousands of users who are already managing their finances
             smarter with Welth
           </p>
-          <Link href="">
-            <Button
-              size="lg"
-              className="bg-white text-blue-600 hover:bg-blue-50 animate-bounce"
-            >
-              Start Free Trial
-            </Button>
-          </Link>
+          // <Link href="">
+          //   <Button
+          //     size="lg"
+          //     className="bg-white text-blue-600 hover:bg-blue-50 animate-bounce"
+          //   >
+          //     Start Free Trial
+          //   </Button>
+          // </Link>
+           <SignInButton forceRedirectUrl="/dashboard">
+              <Button size="lg"
+              className="bg-white text-blue-600 hover:bg-blue-50 animate-bounce" variant="outline">Login</Button>
+            </SignInButton>     
         </div>
       </section>
     </div>
