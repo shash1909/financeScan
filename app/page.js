@@ -115,14 +115,6 @@ const LandingPage = () => {
             Join thousands of users who are already managing their finances
             smarter with Welth
           </p>
-          // <Link href="">
-          //   <Button
-          //     size="lg"
-          //     className="bg-white text-blue-600 hover:bg-blue-50 animate-bounce"
-          //   >
-          //     Start Free Trial
-          //   </Button>
-          // </Link>
            <SignInButton forceRedirectUrl="/dashboard">
               <Button size="lg"
               className="bg-white text-blue-600 hover:bg-blue-50 animate-bounce" variant="outline">Start Your Free Trial Now</Button>
