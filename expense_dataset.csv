@@ -1,0 +1,396 @@
+merchant_name,description,amount,category
+Starbucks,Coffee and muffin breakfast,10.50,Food & Dining
+Subway,Chicken sub meal,9.75,Food & Dining
+Pizza Hut,Large pepperoni pizza,22.00,Food & Dining
+McDonald's,Big Mac lunch combo,14.25,Food & Dining
+KFC,Fried chicken bucket,16.00,Food & Dining
+Dominos,Pizza delivery order,20.00,Food & Dining
+Burger King,Whopper combo meal,13.75,Food & Dining
+Chipotle,Burrito bowl with chicken,11.25,Food & Dining
+Taco Bell,Tacos and nachos,8.99,Food & Dining
+Panera Bread,Sandwich and soup combo,12.50,Food & Dining
+Olive Garden,Italian pasta dinner,32.00,Food & Dining
+Chilis,Appetizers and drinks,28.00,Food & Dining
+Shake Shack,Burgers and fries,15.00,Food & Dining
+Dunkin Donuts,Morning latte and bagel,6.75,Food & Dining
+Coffee Bean,Cappuccino and croissant,8.50,Food & Dining
+Five Guys,Cheeseburger meal,14.00,Food & Dining
+Cold Stone,Ice cream dessert,7.25,Food & Dining
+Subway,Veggie delight sandwich,9.00,Food & Dining
+Dominos,Cheese pizza,18.50,Food & Dining
+McDonald's,Breakfast pancakes,10.00,Food & Dining
+Panda Express,Chinese takeout,13.50,Food & Dining
+Starbucks,Cold brew and cake,9.75,Food & Dining
+Pizza Hut,Family pizza combo,28.00,Food & Dining
+Chipotle,Veggie burrito,10.50,Food & Dining
+Panera Bread,Bagel breakfast,7.00,Food & Dining
+Burger King,Chicken fries,11.00,Food & Dining
+Dunkin Donuts,Iced coffee,5.50,Food & Dining
+Shake Shack,Vanilla shake,6.50,Food & Dining
+KFC,Grilled chicken meal,15.50,Food & Dining
+Chilis,Tex mex dinner,30.00,Food & Dining
+Olive Garden,Lunch pasta deal,18.50,Food & Dining
+Taco Bell,Cheesy tacos,9.50,Food & Dining
+Subway,Footlong combo,10.00,Food & Dining
+Cold Stone,Sundae treat,8.00,Food & Dining
+Five Guys,Bacon burger,16.00,Food & Dining
+Panera Bread,Salad bowl,12.00,Food & Dining
+Pizza Hut,Cheese burst pizza,23.00,Food & Dining
+Burger King,Double whopper,13.50,Food & Dining
+Starbucks,Mocha frappe,7.50,Food & Dining
+KFC,Family dinner pack,25.00,Food & Dining
+Dunkin Donuts,Donut box,12.00,Food & Dining
+Chipotle,Guacamole bowl,11.75,Food & Dining
+Dominos,Veggie pizza,21.00,Food & Dining
+McDonald's,Happy meal,8.00,Food & Dining
+Olive Garden,Lasagna dinner,27.00,Food & Dining
+Panera Bread,Avocado sandwich,11.50,Food & Dining
+Five Guys,Milkshake,6.75,Food & Dining
+Cold Stone,Family ice cream,12.50,Food & Dining
+Burger King,Large fries,4.50,Food & Dining
+KFC,Popcorn chicken,10.50,Food & Dining
+Subway,Turkey sub,9.50,Food & Dining
+Starbucks,Espresso and cookie,8.50,Food & Dining
+Pizza Hut,Stuffed crust,25.00,Food & Dining
+Dominos,Medium pizza offer,17.00,Food & Dining
+Uber,Ride to office,14.00,Transportation
+Lyft,Airport drop,45.00,Transportation
+Shell Gas Station,Fuel refill,60.00,Transportation
+BP Gas,Car gasoline,55.00,Transportation
+Chevron,Full tank,58.00,Transportation
+Parking Garage,Parking downtown,12.00,Transportation
+Parking Meter,Hourly street parking,6.00,Transportation
+Metro Card,Monthly metro pass,100.00,Transportation
+Toll Road,Expressway toll,8.50,Transportation
+Car Wash,Full car wash,25.00,Transportation
+Uber,Ride to airport,32.00,Transportation
+Lyft,Evening commute,15.00,Transportation
+Shell Gas Station,Diesel fill,52.00,Transportation
+BP Gas,Petrol top-up,40.00,Transportation
+Chevron,Quick fuel stop,50.00,Transportation
+Parking Garage,Office parking,20.00,Transportation
+Metro Card,Daily pass,10.00,Transportation
+Uber,Late night ride,22.00,Transportation
+Lyft,Shared ride home,10.50,Transportation
+Shell Gas Station,Fuel payment,47.00,Transportation
+Uber,Short trip,8.00,Transportation
+BP Gas,Car refuel,45.00,Transportation
+Car Wash,Exterior wash,12.00,Transportation
+Parking Meter,Parking fee,5.00,Transportation
+Metro Card,Train ticket,6.50,Transportation
+Chevron,Fuel stop,42.00,Transportation
+Uber,Weekend drive,18.00,Transportation
+BP Gas,Fuel tank refill,49.00,Transportation
+Lyft,Work commute,13.00,Transportation
+Parking Garage,City parking,25.00,Transportation
+Uber,Long route ride,40.00,Transportation
+Chevron,Car fuel payment,54.00,Transportation
+Shell Gas Station,Full fill-up,53.00,Transportation
+Car Wash,Interior and wax,35.00,Transportation
+BP Gas,Petrol,48.00,Transportation
+Uber,Ride to meeting,20.00,Transportation
+Lyft,Trip downtown,17.00,Transportation
+Parking Meter,2-hour parking,8.00,Transportation
+Metro Card,Recharge metro,80.00,Transportation
+Uber,Lunch ride,9.00,Transportation
+Shell Gas Station,Fuel for trip,56.00,Transportation
+Chevron,Fuel purchase,52.00,Transportation
+Parking Garage,Event parking,22.00,Transportation
+Lyft,Pickup from mall,12.00,Transportation
+Uber,Ride from gym,11.00,Transportation
+Car Wash,Express clean,15.00,Transportation
+Metro Card,Monthly renewal,90.00,Transportation
+BP Gas,Refuel before trip,51.00,Transportation
+Toll Road,Highway fee,7.50,Transportation
+Chevron,Car petrol,49.00,Transportation
+Amazon,Books and electronics,85.00,Shopping
+Walmart,Groceries and daily items,120.00,Shopping
+Target,Household essentials,75.00,Shopping
+Best Buy,Headphones purchase,95.00,Shopping
+Apple Store,Phone charger and case,45.00,Shopping
+Nike Store,Sports shoes,110.00,Shopping
+Zara,Clothing for outing,85.00,Shopping
+H&M,New arrivals outfit,65.00,Shopping
+Gap,Jeans and shirts,70.00,Shopping
+Costco,Bulk grocery shopping,210.00,Shopping
+Big Bazaar,Kitchen items,60.00,Shopping
+Amazon,Fitness watch,125.00,Shopping
+Walmart,Groceries and fruits,115.00,Shopping
+Best Buy,Laptop keyboard,80.00,Shopping
+Apple Store,Mac accessories,90.00,Shopping
+Target,School supplies,40.00,Shopping
+Zara,Party outfit,100.00,Shopping
+H&M,Fashion jacket,120.00,Shopping
+Gap,Casual t-shirts,55.00,Shopping
+Nike Store,Running gear,130.00,Shopping
+Costco,Monthly grocery stock,180.00,Shopping
+Amazon,Home cleaning tools,65.00,Shopping
+Walmart,Weekend grocery,85.00,Shopping
+Big Bazaar,Snacks and drinks,40.00,Shopping
+Zara,Formal wear,95.00,Shopping
+H&M,Denim and top,72.00,Shopping
+Nike Store,Gym wear,105.00,Shopping
+Apple Store,AirPods replacement,250.00,Shopping
+Target,Home decor,60.00,Shopping
+Best Buy,Phone holder,30.00,Shopping
+Amazon,Book order,25.00,Shopping
+Walmart,Food and essentials,100.00,Shopping
+Zara,Shirt and jeans,80.00,Shopping
+Costco,Kitchen utensils,140.00,Shopping
+Big Bazaar,Home essentials,75.00,Shopping
+Nike Store,Sports t-shirt,55.00,Shopping
+Target,Bedding set,95.00,Shopping
+H&M,Summer dress,68.00,Shopping
+Gap,Men's clothing,85.00,Shopping
+Best Buy,Smartwatch,199.00,Shopping
+Amazon,New phone,450.00,Shopping
+Walmart,Monthly shopping,160.00,Shopping
+Zara,Summer outfit,70.00,Shopping
+Nike Store,Track pants,80.00,Shopping
+Apple Store,Screen protector,30.00,Shopping
+Target,Kitchen towels,25.00,Shopping
+Big Bazaar,Cleaning supplies,45.00,Shopping
+Costco,Snacks and cereals,125.00,Shopping
+Best Buy,Game controller,90.00,Shopping
+H&M,Graphic tees,40.00,Shopping
+Electricity Bill,Monthly power usage,95.00,Bills & Utilities
+Water Bill,Quarterly water charge,45.00,Bills & Utilities
+Internet Bill,WiFi broadband,70.00,Bills & Utilities
+Comcast,Internet and cable combo,130.00,Bills & Utilities
+T-Mobile,Postpaid mobile plan,60.00,Bills & Utilities
+Netflix,Streaming subscription,15.99,Bills & Utilities
+Hulu,TV entertainment plan,12.99,Bills & Utilities
+Spotify,Music streaming,9.99,Bills & Utilities
+Amazon Prime,Annual subscription,149.00,Bills & Utilities
+Phone Bill,Family plan,90.00,Bills & Utilities
+Electricity Bill,Power usage fee,110.00,Bills & Utilities
+Water Bill,Water meter bill,38.00,Bills & Utilities
+Internet Bill,Fiber plan,80.00,Bills & Utilities
+Comcast,Internet payment,125.00,Bills & Utilities
+T-Mobile,Mobile data plan,70.00,Bills & Utilities
+Netflix,HD streaming plan,16.99,Bills & Utilities
+Hulu,Series plan,11.99,Bills & Utilities
+Spotify,Student plan,5.99,Bills & Utilities
+Amazon Prime,Video membership,139.00,Bills & Utilities
+Phone Bill,Prepaid plan,45.00,Bills & Utilities
+Electricity Bill,Light usage,100.00,Bills & Utilities
+Water Bill,Water bill,40.00,Bills & Utilities
+Internet Bill,Monthly recharge,55.00,Bills & Utilities
+Comcast,WiFi payment,140.00,Bills & Utilities
+Netflix,Family account,19.99,Bills & Utilities
+T-Mobile,Phone plan renewal,60.00,Bills & Utilities
+Amazon Prime,Shopping subscription,149.00,Bills & Utilities
+Spotify,Monthly renewal,9.99,Bills & Utilities
+Hulu,TV pack,13.99,Bills & Utilities
+Phone Bill,Monthly bill,50.00,Bills & Utilities
+Internet Bill,Broadband service,70.00,Bills & Utilities
+Comcast,Cable renewal,120.00,Bills & Utilities
+T-Mobile,Mobile plan fee,55.00,Bills & Utilities
+Netflix,Streaming renewal,18.00,Bills & Utilities
+Spotify,Music plan,10.00,Bills & Utilities
+Hulu,TV subscription,15.00,Bills & Utilities
+Phone Bill,Internet pack,65.00,Bills & Utilities
+Amazon Prime,Membership fee,145.00,Bills & Utilities
+Water Bill,Service renewal,50.00,Bills & Utilities
+Electricity Bill,Energy usage,105.00,Bills & Utilities
+CVS Pharmacy,Prescription medicine,40.00,Healthcare
+Walgreens,Medical supplies,28.50,Healthcare
+Dr. Smith Clinic,Consultation fee,150.00,Healthcare
+Dental Care,Teeth cleaning session,120.00,Healthcare
+Vision Center,Eye checkup,85.00,Healthcare
+Apollo Pharmacy,Pain relief tablets,35.00,Healthcare
+HealthMart,Supplements and vitamins,55.00,Healthcare
+Optical Store,Contact lenses,95.00,Healthcare
+MediPlus,Online medicine order,60.00,Healthcare
+Clinic Care,Doctor appointment,140.00,Healthcare
+Apollo Pharmacy,Health products,45.00,Healthcare
+Walgreens,Sanitizer and mask pack,30.00,Healthcare
+Dr. John Clinic,General checkup,135.00,Healthcare
+Dental Care,Dental polish,110.00,Healthcare
+CVS Pharmacy,Blood pressure medicine,38.00,Healthcare
+HealthMart,Protein supplements,65.00,Healthcare
+Optical Store,Eye frames,80.00,Healthcare
+MediPlus,Cold medicine,42.00,Healthcare
+Clinic Care,Annual physical test,155.00,Healthcare
+Apollo Pharmacy,Allergy tablets,25.00,Healthcare
+Walgreens,Health kit,50.00,Healthcare
+Dental Care,Whitening service,130.00,Healthcare
+Dr. Smith Clinic,Follow-up check,95.00,Healthcare
+CVS Pharmacy,Vitamins and pills,48.00,Healthcare
+HealthMart,Medicines purchase,52.00,Healthcare
+Optical Store,New glasses,75.00,Healthcare
+MediPlus,Doctor appointment,150.00,Healthcare
+Clinic Care,General health check,120.00,Healthcare
+Apollo Pharmacy,Fever syrup,35.00,Healthcare
+Walgreens,Antibiotic tablets,28.00,Healthcare
+Netflix,Monthly entertainment,15.99,Entertainment
+Hulu,Streaming movies,12.99,Entertainment
+Spotify,Music premium,9.99,Entertainment
+YouTube Premium,Ad-free videos,11.99,Entertainment
+AMC Theaters,Movie tickets,30.00,Entertainment
+Cinema,Evening show tickets,25.00,Entertainment
+Concert Hall,Live concert,80.00,Entertainment
+Steam,Online game purchase,59.99,Entertainment
+Bowling Alley,Recreation night,40.00,Entertainment
+Theme Park,Day entry tickets,120.00,Entertainment
+Netflix,TV shows pack,17.00,Entertainment
+Hulu,New drama series,14.00,Entertainment
+Spotify,Music subscription,10.00,Entertainment
+YouTube Premium,Music videos,13.00,Entertainment
+AMC Theaters,New movie release,32.00,Entertainment
+Cinema,3D show booking,28.00,Entertainment
+Concert Hall,Music night,85.00,Entertainment
+Steam,Video game purchase,49.00,Entertainment
+Bowling Alley,Weekend fun,35.00,Entertainment
+Theme Park,Adventure rides,130.00,Entertainment
+Netflix,Family plan,18.00,Entertainment
+Hulu,Series streaming,13.00,Entertainment
+Spotify,Audio subscription,11.00,Entertainment
+YouTube Premium,Music stream,12.00,Entertainment
+AMC Theaters,Evening show,29.00,Entertainment
+Cinema,2D movie,22.00,Entertainment
+Steam,Digital game,55.00,Entertainment
+Concert Hall,Live band,90.00,Entertainment
+Bowling Alley,Game night,38.00,Entertainment
+Theme Park,Park entry,125.00,Entertainment
+Hilton Hotel,Business stay,200.00,Travel
+Delta Airlines,Flight ticket,450.00,Travel
+Airbnb,Vacation rental,180.00,Travel
+Hertz,Car rental,120.00,Travel
+Expedia,Travel package,800.00,Travel
+Hotel.com,Weekend hotel booking,160.00,Travel
+MakeMyTrip,Holiday booking,350.00,Travel
+OYO Rooms,City stay,75.00,Travel
+Trivago,Hotel search booking,140.00,Travel
+Booking.com,Flight and hotel combo,650.00,Travel
+Airbnb,Beach house rental,220.00,Travel
+Hilton Hotel,Conference trip stay,250.00,Travel
+Delta Airlines,Domestic flight,380.00,Travel
+IndiGo,One-way ticket,120.00,Travel
+SpiceJet,Round trip booking,240.00,Travel
+Uber,Ride to airport,35.00,Travel
+Lyft,City ride,40.00,Travel
+Goibibo,Travel package deal,420.00,Travel
+Hertz,Car hire for trip,100.00,Travel
+Expedia,Flight reservation,700.00,Travel
+MakeMyTrip,Vacation booking,390.00,Travel
+OYO Rooms,Business stay,85.00,Travel
+Trivago,Hotel discount deal,130.00,Travel
+Airbnb,Cottage stay,190.00,Travel
+Booking.com,International trip,1200.00,Travel
+Delta Airlines,Return ticket,500.00,Travel
+Hilton Hotel,Family stay,300.00,Travel
+Uber,Trip to railway station,25.00,Travel
+Hertz,Van rental,200.00,Travel
+Expedia,Package holiday,750.00,Travel
+Office Depot,Office stationery,50.00,Business
+FedEx,Package shipping,25.00,Business
+Staples,Printer paper,35.00,Business
+LinkedIn Premium,Professional network,29.99,Business
+Zoom,Online meeting subscription,15.99,Business
+Adobe,Creative Cloud suite,55.00,Business
+Google Workspace,Monthly business tools,30.00,Business
+Dropbox,Business storage,20.00,Business
+Slack,Communication tool,10.00,Business
+Microsoft Office,Office suite,65.00,Business
+Canva,Design tool pro plan,12.00,Business
+Fiverr,Freelancer payment,100.00,Business
+Upwork,Contract project,200.00,Business
+Trello,Project management plan,25.00,Business
+Asana,Team workflow tool,30.00,Business
+FedEx,Overnight delivery,40.00,Business
+Office Depot,Printer ink,70.00,Business
+LinkedIn Premium,Recruiter plan,60.00,Business
+Zoom,Webinar subscription,20.00,Business
+Adobe,Illustrator license,45.00,Business
+Google Workspace,Enterprise tools,35.00,Business
+Dropbox,File sync renewal,25.00,Business
+Slack,Pro plan renewal,15.00,Business
+Microsoft Office,Subscription renewal,55.00,Business
+Canva,Team license,30.00,Business
+Fiverr,Design logo,85.00,Business
+Upwork,Development project,250.00,Business
+Trello,Collaboration upgrade,20.00,Business
+Asana,Team premium,28.00,Business
+FedEx,Shipping supplies,22.00,Business
+Office Depot,Office chair,150.00,Business
+Coursera,Online Python course,49.99,Education
+Udemy,Web development bootcamp,39.99,Education
+edX,Data science certification,79.99,Education
+Khan Academy,Donation to learning,20.00,Education
+University Bookstore,Textbooks,180.00,Education
+Skillshare,Creative class,29.99,Education
+Byju’s,Math subscription,40.00,Education
+Unacademy,Exam preparation plan,35.00,Education
+Coursera,AI specialization,59.99,Education
+Udemy,Machine learning course,45.00,Education
+edX,Programming basics,65.00,Education
+University Bookstore,Engineering books,200.00,Education
+Skillshare,Animation lessons,25.00,Education
+Byju’s,Science course,42.00,Education
+Unacademy,JEE coaching,50.00,Education
+Coursera,Web design,60.00,Education
+Udemy,App development,40.00,Education
+edX,Machine learning,85.00,Education
+University Bookstore,Reference books,150.00,Education
+Khan Academy,Math lessons,10.00,Education
+Skillshare,Photography class,35.00,Education
+Byju’s,Online test pack,25.00,Education
+Unacademy,NEET course,45.00,Education
+Coursera,Python advanced,55.00,Education
+Udemy,Ethical hacking,65.00,Education
+Salon,Haircut and styling,40.00,Personal Care
+Spa,Massage therapy,95.00,Personal Care
+Cosmetics Store,Beauty products,55.00,Personal Care
+Barber Shop,Men’s grooming,30.00,Personal Care
+Nail Salon,Manicure and pedicure,60.00,Personal Care
+Makeup Studio,Bridal makeup trial,120.00,Personal Care
+Hair Studio,Hair coloring,150.00,Personal Care
+Spa,Full body massage,110.00,Personal Care
+Salon,Facial and trim,70.00,Personal Care
+Cosmetics Store,Skin care products,65.00,Personal Care
+Barber Shop,Hair shave,25.00,Personal Care
+Nail Salon,Gel polish,55.00,Personal Care
+Makeup Studio,Event makeup,130.00,Personal Care
+Hair Studio,Hair spa,90.00,Personal Care
+Spa,Relaxing massage,100.00,Personal Care
+Salon,Head massage,45.00,Personal Care
+Cosmetics Store,Perfume and creams,85.00,Personal Care
+Barber Shop,Trimming and cut,40.00,Personal Care
+Nail Salon,Nail extensions,80.00,Personal Care
+Makeup Studio,Makeup course,200.00,Personal Care
+Health Insurance,Medical coverage,300.00,Insurance
+Life Insurance,Policy premium,100.00,Insurance
+Car Insurance,Vehicle insurance,120.00,Insurance
+Home Insurance,Property protection,200.00,Insurance
+Travel Insurance,International trip,80.00,Insurance
+Health Insurance,Hospital plan,250.00,Insurance
+Life Insurance,Term plan,90.00,Insurance
+Car Insurance,Auto renewal,115.00,Insurance
+Home Insurance,Monthly coverage,175.00,Insurance
+Travel Insurance,Vacation cover,95.00,Insurance
+Health Insurance,Medical plan,280.00,Insurance
+Life Insurance,Family policy,110.00,Insurance
+Car Insurance,Vehicle protection,130.00,Insurance
+Home Insurance,Fire safety cover,210.00,Insurance
+Travel Insurance,Holiday coverage,70.00,Insurance
+ATM Withdrawal,Cash withdrawal,100.00,Cash & Utilities
+Bank Fee,Service charge,5.00,Cash & Utilities
+Money Transfer,Send to friend,200.00,Cash & Utilities
+ATM Withdrawal,Emergency cash,80.00,Cash & Utilities
+Bank Fee,Card renewal,10.00,Cash & Utilities
+ATM Deposit,Cash deposit,150.00,Cash & Utilities
+Money Transfer,Online transaction,300.00,Cash & Utilities
+ATM Withdrawal,Weekend cash,90.00,Cash & Utilities
+Bank Fee,Account maintenance,15.00,Cash & Utilities
+Money Transfer,Family help,250.00,Cash & Utilities
+ATM Withdrawal,Cash for shopping,70.00,Cash & Utilities
+Bank Fee,International charge,20.00,Cash & Utilities
+ATM Deposit,Cheque deposit,500.00,Cash & Utilities
+Money Transfer,Friend repayment,100.00,Cash & Utilities
+ATM Withdrawal,Quick cash,60.00,Cash & Utilities
+Bank Fee,Overdraft fee,25.00,Cash & Utilities
+ATM Deposit,Salary deposit,1000.00,Cash & Utilities
+Money Transfer,Bill payment,150.00,Cash & Utilities
+ATM Withdrawal,Emergency fund,200.00,Cash & Utilities
+Bank Fee,Transaction fee,12.00,Cash & Utilities
